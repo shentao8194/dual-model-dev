@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+config.json
+config.*.json
+*.key
+.env*
+runs/
+dist/
+.dual-model-dev/
