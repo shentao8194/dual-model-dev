@@ -1,0 +1,11 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "dual-model-dev",
+  "version": "0.1.0",
+  "description": "Codex planning, Kimi drafting, and DeepSeek proofreading and implementation with local BytePlus international onboarding.",
+  "extensions": {
+    "com.openai": {
+      "requires_local_executor": true
+    }
+  }
+}
